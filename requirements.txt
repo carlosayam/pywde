@@ -1,5 +1,5 @@
 PyWavelets
-numpy==1.14.3
+numpy==1.22.0
 scikit-learn==0.19.1
 scipy==1.1.0
 pytest~=3.10
